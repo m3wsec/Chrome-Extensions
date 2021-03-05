@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions",
-  "description" : "Base Level Extension",
+  "name": "jsonp-scanner",
+  "description" : "A simple jsonp scanner",
   "version": "1.0",
   "manifest_version": 3,
   
@@ -14,7 +14,7 @@
         "default": "Ctrl+Shift+F",
         "mac": "MacCtrl+Shift+F"
       },
-      "description": "Opens hello.html"
+      "description": "Opens index.html"
     }
   },
 
